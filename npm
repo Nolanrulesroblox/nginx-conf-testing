@@ -1,0 +1,9 @@
+npm install -g pm2
+# (whole server)
+npm install pm2
+# local dir
+
+pm2 start file.js
+
+pm2 startup  
+# system startup
